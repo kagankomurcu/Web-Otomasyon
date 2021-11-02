@@ -1,2 +1,2 @@
 # Web-Otomasyon
-Selenium ile Web Otomasyonu
+POM dizayn ile Selenium kullanılarak yapılmış WEB Otomasyonu
