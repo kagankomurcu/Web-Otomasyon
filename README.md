@@ -1,2 +1,2 @@
-# Web-Otomasyon
+# Test-Otomasyon
 Selenium ile Web Otomasyonu
